@@ -1,6 +1,4 @@
-# sentinel
-
-![Sentinel Logo](logo-sentinel.png)
+![Sentinel Logo](logo-sentinel.png){ width="200" }
 
 ## Project Overview
 
