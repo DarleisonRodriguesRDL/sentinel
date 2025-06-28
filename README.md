@@ -1,5 +1,7 @@
 # sentinel
 
+![Sentinel Logo](logo-sentinel.png)
+
 ## Project Overview
 
 `agent-cli` is a command-line interface (CLI) for interacting with and orchestrating intelligent agents powered by Google's Gemini Large Language Model. The goal of this project is to create a flexible, extensible framework for building AI-driven workflows, focusing on advanced agent capabilities like enhanced memory, context management inspired by mnemonic techniques, and efficient inference handling, while providing a cost-effective alternative to commercial vector database services for personal projects and shareable solutions.
@@ -76,7 +78,7 @@ This project is under active development. Below is a breakdown of current and pl
         ```cmd
         set GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
         ```
-    * **Windows (PowerShell):**
+    * **Windows (PowerShell):
         ```powershell
         $env:GEMINI_API_KEY="YOUR_GEMINI_API_KEY"
         ```
