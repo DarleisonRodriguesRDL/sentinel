@@ -1,5 +1,11 @@
 
-<img src="logo-sentinel.png" style="position:absolute; width:50%; height:50%" width="400"/>
+<img src="logo-sentinel.png" style="position:absolute; width:50%; height:50%" width="300"/>
+
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20Us-F96854?style=for-the-badge&logo=patreon)](https://www.patreon.com/YOUR_PATREON_PROFILE)
+
+[![Build Status](https://api.travis-ci.com/YOUR_GITHUB_USERNAME/agent-cli.svg?branch=main)](https://app.travis-ci.com/YOUR_GITHUB_USERNAME/agent-cli)
+
+[![Snyk Vulnerabilities for GitHub Repo](https://snyk.io/test/github/YOUR_GITHUB_USERNAME/agent-cli/badge.svg)](https://snyk.io/test/github/YOUR_GITHUB_USERNAME/agent-cli)
 
 `agent-cli` is a command-line interface (CLI) for interacting with and orchestrating intelligent agents powered by Google's Gemini Large Language Model. The goal of this project is to create a flexible, extensible framework for building AI-driven workflows, focusing on advanced agent capabilities like enhanced memory, context management inspired by mnemonic techniques, and efficient inference handling, while providing a cost-effective alternative to commercial vector database services for personal projects and shareable solutions.
 
